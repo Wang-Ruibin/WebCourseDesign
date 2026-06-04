@@ -1,0 +1,64 @@
+/* Admin Table Styles */
+.admin-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.admin-table th, .admin-table td {
+    border: 1px solid #e0e0e0;
+    padding: 12px 15px;
+    text-align: left;
+}
+
+.admin-table thead th {
+    background-color: #0a2a5c;
+    color: white;
+    font-weight: bold;
+}
+
+.admin-table tbody tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+.admin-table tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.action-link {
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.9em;
+    margin-right: 5px;
+}
+
+.action-link.edit {
+    background-color: #28a745; /* Green */
+}
+
+.action-link.edit:hover {
+    background-color: #218838;
+}
+
+.action-link.delete {
+    background-color: #dc3545; /* Red */
+}
+
+.action-link.delete:hover {
+    background-color: #c82333;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    color: #0a2a5c;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
