@@ -183,7 +183,7 @@ http://localhost:8080/student-management-system/
 
 ## 📜 开源协议
 
-本项目仅供学习交流使用。
+本项目基于 [MIT License](LICENSE) 开源。
 
 ---
 
