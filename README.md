@@ -193,4 +193,6 @@ http://localhost:8080/student-management-system/
 
 *你的每一个 Star 都是对我最大的鼓励 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Wang-Ruibin/WebCourseDesign&type=Date)](https://star-history.com/#Wang-Ruibin/WebCourseDesign&Date)
+
 </div>
